@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520444373 source:g:\acm-icpc-recording\toutiao2-shouchuan\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
